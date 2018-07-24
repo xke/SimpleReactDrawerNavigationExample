@@ -1,6 +1,6 @@
 # Simple React Drawer Navigation Example
 
-My simple example to show how to structure a React Native app with createDrawerNavigator and createStackNavigator (from reactnavigation.org).
+My simple example to show how to structure a React Native app with createDrawerNavigator and createStackNavigator (from <a href="https://github.com/react-navigation/react-navigation">react-navigation</a>).
 
 App walkthrough:
 
